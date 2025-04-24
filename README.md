@@ -47,4 +47,4 @@ Data science is more than just a profession for me—it’s a way to channel my 
 - **Email**: [work.shubhamfufal@outlook.com](mailto:work.shubhamfufal@outlook.com)
 - **GitHub**: [ShubhamF0073](https://github.com/ShubhamF0073)
 - **Portfolio**: [Medium Articles](https://medium.com/@shubhamfufal.8)
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/your-profile)
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/shubham-fufal-00b62b177/)
